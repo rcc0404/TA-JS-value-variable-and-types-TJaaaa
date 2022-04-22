@@ -9,6 +9,9 @@
 
 let num1 = 21;
 let num2 = 32;
+let sum = num1 + num2;
+console.log(sum);
+console.log(typeof sum);
 
 /*
 - Create a variable named `language` and store the value of `JavaScript` in it
@@ -16,6 +19,10 @@ let num2 = 32;
 - Alert `The value of num1 is [num1] and the value of num2 is [num2]`
 - Alert `The sum of [num1] and [num2] is [num1 + num1]`
 */
+let language = "JavaScript"
+alert("I am learing" ${ "language" });
+console.log(alert);
+console.log(typeof alert);
 
 /*
 2. Do the following using `alert`, `prompt` and `confirm` and `console`
