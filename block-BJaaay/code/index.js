@@ -33,4 +33,7 @@ let initialValue = 1;
 while (initialValue < 11) {
     console.log(initialValue);
     initialValue++;
-    }
+}
+    
+var number = 49;
+number + 10;
