@@ -11,6 +11,39 @@ Write a program that asks the user his/her age and check for the following condi
 👇
 */
 
+let age = Number(prompt("Enter your age?"));
+
+// let user = age;
+
+// if (age = 12 >= 55);{
+// alert("You can participate in the marathon");
+// }
+// else if (age = 4 >= 11); {
+//   alert("You are too young to participate in the marathon");
+// }
+// else if (age <= 4); {
+//   alert("Hey Kiddo! Can You Walk ?");
+// }
+// else age(age >= 55);
+// alert("You are too old to participate in the marthon");
+// }
+// default:
+// alert("not a valid age");
+
+switch (user = age) {
+  case (age = 12 >= 55)
+    alert("You can participate in the marathon");
+  case (age = 4 >= 11);
+    alert("You are too young to participate in the marathon");
+  case (age <= 4);
+    alert("Hey Kiddo! Can You Walk ?");
+  case (age >= 55);
+    alert("You are too old to participate in the marthon");
+    default:
+ alert("not a valid age");
+}
+
+
 // Loops
 /*
 Given a positive integer `n`. Print the word (hello) in format of heeeello (letter 'e' must be repeated `n` times). Take input from prompt and print the result in alert.
