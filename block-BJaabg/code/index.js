@@ -15,4 +15,6 @@ var bank_balance = 303.91;
 var amount = 0;
 // your code goes here
 
+let total = +prompt("Enter total price")
+
 // ⛑ Answer of the above will `$334.76`.
